@@ -1,0 +1,24 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "Ce projet est un petit annuaire d'entreprises.  \r Il permet de lister plusieurs entreprises, et d'en voir leur bureaux et employées.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopheSauder/Automatisation-Exercice-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopheSauder/Automatisation-Exercice-2/issues"
+  },
+  "homepage": "https://github.com/ChristopheSauder/Automatisation-Exercice-2#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "eslint": "^9.18.0",
+    "globals": "^15.14.0"
+  }
+}
